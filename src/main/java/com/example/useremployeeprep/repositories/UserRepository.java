@@ -1,4 +1,0 @@
-package com.example.useremployeeprep.repositories;
-
-public interface UserRepository {
-}
