@@ -1,5 +1,7 @@
 package com.example.useremployeeprep.config;
 
+import com.example.useremployeeprep.model.User;
+import com.example.useremployeeprep.repositories.Userrepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
